@@ -1,11 +1,14 @@
 # CS205 Final Project - BEES ? BEES !
-#### * Project Name : Image Classification using Apache Spark
-###### 1) Team member : Xiowen Chang, Jeewon Hwang, Xingchi Dai
-###### 2) Website : [http://cs205-beesbees.weebly.com/](http://cs205-beesbees.weebly.com/) 
-###### 3) Sceencast : [https://youtu.be/dSCy9Fxtr0s](https://youtu.be/dSCy9Fxtr0s)
-###### 4) Database we used : [Bee Database (5,000 images)](http://www.drivendata.org/competitions/8/data/)
+### Project Name : Image Classification using Apache Spark
+##### 1) Team member : Xiowen Chang, Jeewon Hwang, Xingchi Dai
+##### 2) Website : [http://cs205-beesbees.weebly.com/](http://cs205-beesbees.weebly.com/) 
+##### 3) Sceencast : [https://youtu.be/dSCy9Fxtr0s](https://youtu.be/dSCy9Fxtr0s)
+##### 4) Database we used : [Bee Database (5,000 images)](http://www.drivendata.org/competitions/8/data/)
+(Since this Bee Database is over the limit of github upload size, we give the link to the database instead. Other datasets, such as train data labelled by ourselves are uploaded together in github repo.)
 
-
+### How to Run our code
+Our code is written by IPython Notebook. (
+that describes the code and application files, and how your program should be run.
 In the submitted file, you will find ipython notebook and python file. Please use ipython notebook to grade.
 You should be able to open the file by typing "ipython notebook" in your terminal. 
 One PDF of the ipython notebook is also submitted.
