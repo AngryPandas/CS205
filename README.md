@@ -1,16 +1,21 @@
-# CS109 - Final Project
-#### * Project Name : Face Detection and Gender Classification
-#### * Team Name : Angry Pandas
-###### 1) Team member's github ids : xchang4, jeewon-hwang, zelong430, xdai1091
-###### 2) Website : [http://cs109-angrypandas.weebly.com/](http://cs109-angrypandas.weebly.com/) 
-###### 3) Sceencast : [https://youtu.be/8jJzDEq1tFA](https://youtu.be/8jJzDEq1tFA)
-###### 4) Database we used : [Nottingham Face Detection Database](http://pics.psych.stir.ac.uk/2D_face_sets.htm)
-###### 5) Non-standard Python libraries we used :
-CV2, glob, PIL, sklearn, panda, matplotlib, seaborn
-We used haarcascade_frontalface_default.xml to detect the face.
+# CS205 Final Project - BEES ? BEES !
+#### * Project Name : Image Classification using Apache Spark
+###### 1) Team member : Xiowen Chang, Jeewon Hwang, Xingchi Dai
+###### 2) Website : [http://cs205-beesbees.weebly.com/](http://cs205-beesbees.weebly.com/) 
+###### 3) Sceencast : [https://youtu.be/dSCy9Fxtr0s](https://youtu.be/dSCy9Fxtr0s)
+###### 4) Database we used : [Bee Database (5,000 images)](http://www.drivendata.org/competitions/8/data/)
 
 
+In the submitted file, you will find ipython notebook and python file. Please use ipython notebook to grade.
+You should be able to open the file by typing "ipython notebook" in your terminal. 
+One PDF of the ipython notebook is also submitted.
+All results have been shown. You can also run everything starting from beginning, but doing so might erase our previous 
+results. Also, you need to download some packages before running. please use "conda" commands, such as: openCV, Oputunity, Pyspark etc.
+We commented our code, so you should find it easy to read and follow our steps.
+Our video has been submitted to Youtube.
+Our website contains discussions of implementation, conclusion and code performance. So, you might find that useful when you grade. 
 
+Thanks again
 
 
 
