@@ -1,4 +1,4 @@
-# CS205 Final Project - BEES ? BEES !
+# CS205 Final Project - BEE ? BEE !
 ### Project Name : Image Classification using Apache Spark
 ##### 1) Team member : Xiowen Chang, Jeewon Hwang, Xingchi Dai
 ##### 2) Website : [http://cs205-beesbees.weebly.com/](http://cs205-beesbees.weebly.com/) 
