@@ -10,5 +10,5 @@
 Our code is written by IPython Notebook. (CS205 Final Report - December 10.ipynb file) Please use ipython notebook to grade.
 You should be able to open the file by opening through github repository or typing "ipython notebook" in your terminal. 
 All results have been included with our submitted file. You can also run everything starting from beginning, but doing so might erase our previous results.
-Also, you need to download some packages before running. please use "conda" commands, such as: openCV, Oputunity, Pyspark etc.
+Also, you need to download some packages before running. Please use "conda" commands, when you download packages needed, such as: openCV, Oputunity, Pyspark etc.
 We commented our code, so you should find it easy to read and follow our steps.
